@@ -1,6 +1,6 @@
 cask "godusage" do
-  version "1.7.3"
-  sha256 "653bd42e87680d3953a2a961804a6d59edb233c28c396b8b76ab2fc5b2a65f84"
+  version "1.7.4"
+  sha256 "903aff8af95e50db5c26dbbef2059fa1a8c748597506f81db05726c43fb88e8d"
 
   url "https://github.com/federico-app/godusage/releases/download/v#{version}/GodUsage-#{version}.dmg"
   name "GodUsage"
